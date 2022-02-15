@@ -7,10 +7,10 @@ Please visit `LICENSE` file to read the details about the license.
 
 ## Credit
 **Developed by our team :**
-Muhamad Ashraff Othman
-Muhammad Hadif Abdul Rahim
-Siti Nabilah Mohd Hanafi
-Sharifah Nurul Fatihah Wan Asshar Marzuki
+Muhamad Ashraff Othman<br>
+Muhammad Hadif Abdul Rahim<br>
+Siti Nabilah Mohd Hanafi<br>
+Sharifah Nurul Fatihah Wan Asshar Marzuki<br>
 
 **Students of Universiti Kuala Lumpur (UniKL MIIT)**
 
