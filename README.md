@@ -56,6 +56,10 @@ The output will be : `12`<br>
 
 > Note: The algorithm are able to evaluate operand which has more than 2 digit value , decimal value and negative value.
 
+## References
+[1]  Carrano, F. M. (2011). _Data Structures and Abstractions with Java (3rd Edition)_ (3rd ed.). Pearson.
+
+##
 ## Visual Studio Code (VS Code) Readme
  **Folder Structure**
 The workspace contains two folders by default, where:
