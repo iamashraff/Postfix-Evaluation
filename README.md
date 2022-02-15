@@ -2,11 +2,11 @@
 Simple Java source code application to *Evaluate Postfix Expression*.
 
 ## License
-The source code has been published on GitHub Repository under *MIT License*.
+The source code has been published on GitHub Repository under *MIT License*.<br>
 Please visit `LICENSE` file to read the details about the license.
 
 ## Credit
-**Developed by our team :**
+**Developed by our team :**<br>
 Muhamad Ashraff Othman<br>
 Muhammad Hadif Abdul Rahim<br>
 Siti Nabilah Mohd Hanafi<br>
