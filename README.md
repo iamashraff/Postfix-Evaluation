@@ -15,6 +15,9 @@ The source code has been published on GitHub Repository under *MIT License*.<br>
 Please visit `LICENSE` file to read the details about the license.
 
 ## How to use ?
+Source code is available on folder `src` and file name is `evaluatePostfix.java` .
+You may run the Java source code directly on any Java supported compiler.
+
 Invoke method `evalPostfix(String)` with string parameter of postfix expression.<br>
 The `evalPostfix(String)` need to be called inside the `main` method .<br>
 The output of *postfix evaluation* will be returned as *double* datatype.
