@@ -8,8 +8,9 @@ Muhammad Hadif Abdul Rahim<br>
 Siti Nabilah Mohd Hanafi<br>
 Sharifah Nurul Fatihah Wan Asshar Marzuki<br>*
 
-© 2021-2022 All rights reserved.
-***Students of Universiti Kuala Lumpur (UniKL MIIT)***
+***Students of Universiti Kuala Lumpur (UniKL MIIT)***<br>
+
+© 2021-2022 All rights reserved.<br>
 
 ## License
 The source code has been published on GitHub Repository under *MIT License*.<br>
