@@ -2,15 +2,32 @@
 Simple Java source code application to *Evaluate Postfix Expression*.
 
 ## License
-The source code has been published on GitHub Repository under *MIT License*.<br>
+The source code has been published on GitHub Repository under *MIT License*.
 Please visit `LICENSE` file to read the details about the license.
 
+## How to Use
+Invoke method `evalPostfix(String)` with string parameter of postfix expression.
+The `evalPostfix(String)` need to be called inside the `main` method .
+The output of *postfix evaluation* will be returned as *double* datatype.
+
+**Eg. 1:**<br>
+Input postfix expression :  `7 4 + 3 / -2 *`<br>
+The output will be : `-7.33`<br>
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example1.png)
+ ##
+ **Eg. 2:**<br>
+**Input postfix expression**  `7 4 3 -2 + / *`<br>
+The output will be : `28`<br>
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example2.png)
+
 ## Credit
-**Developed by our team :**<br>
-Muhamad Ashraff Othman<br>
+**Developed by our team :**
+*Muhamad Ashraff Othman<br>
 Muhammad Hadif Abdul Rahim<br>
 Siti Nabilah Mohd Hanafi<br>
-Sharifah Nurul Fatihah Wan Asshar Marzuki<br>
+Sharifah Nurul Fatihah Wan Asshar Marzuki<br>*
 
 **Students of Universiti Kuala Lumpur (UniKL MIIT)**
 
