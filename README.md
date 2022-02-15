@@ -1,5 +1,5 @@
 # Postfix Evaluation (Java)
-Simple Java source code application to *Evaluate Postfix Expression*.
+Simple Java source code application to *Evaluate Postfix Expression* using application of *Stack* in data structure and algorithm.<br>
 
 ## Credit
 **Developed by :**<br>
