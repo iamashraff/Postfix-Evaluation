@@ -1,6 +1,15 @@
 # Postfix Evaluation (Java)
 Simple Java source code application to *Evaluate Postfix Expression*.
 
+## Credit
+**Developed by :**<br>
+*Muhamad Ashraff Othman<br>
+Muhammad Hadif Abdul Rahim<br>
+Siti Nabilah Mohd Hanafi<br>
+Sharifah Nurul Fatihah Wan Asshar Marzuki<br>*
+
+***Students of Universiti Kuala Lumpur (UniKL MIIT)***
+
 ## License
 The source code has been published on GitHub Repository under *MIT License*.<br>
 Please visit `LICENSE` file to read the details about the license.
@@ -15,23 +24,27 @@ Input postfix expression :  `7 4 + 3 / -2 *`<br>
 The output will be : `-7.33`<br>
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example1.png)
- <br>
+
+##
+
  **Eg. 2:**
 **Input postfix expression**  `7 4 3 -2 + / *`<br>
 The output will be : `28`<br>
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example2.png)
 
+##
+ **Eg. 3:**
+**Input postfix expression**  `7 4 3 + / -2 *`<br>
+The output will be : `-2`<br>
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example3.png)
 
+##
+ **Eg. 4:**
+**Input postfix expression**  `7 4 + 3 + -2 +`<br>
+The output will be : `12`<br>
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Postfix-Evaluation/main/img/example4.png)
 
-## Credit
-**Developed by our team :**
-*Muhamad Ashraff Othman<br>
-Muhammad Hadif Abdul Rahim<br>
-Siti Nabilah Mohd Hanafi<br>
-Sharifah Nurul Fatihah Wan Asshar Marzuki<br>*
-
-**Students of Universiti Kuala Lumpur (UniKL MIIT)**
 
 ## Visual Studio Code (VS Code) Readme
  **Folder Structure**
