@@ -1,17 +1,6 @@
 # Postfix Evaluation (Java)
 Simple Java source code application to *Evaluate Postfix Expression* by using application of *Stack* in data structure and algorithm.<br>
 
-## Credit
-**Developed by :**<br>
-*Muhamad Ashraff Othman<br>
-Muhammad Hadif Abdul Rahim<br>
-Siti Nabilah Mohd Hanafi<br>
-Sharifah Nurul Fatihah Wan Asshar Marzuki<br>*
-
-***Students of Universiti Kuala Lumpur (UniKL MIIT)***<br>
-
-© 2021-2022 All rights reserved.<br>
-
 ## License
 The source code has been published on GitHub Repository under *MIT License*.<br>
 Please visit `LICENSE` file to read the details about the license.
@@ -75,4 +64,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 **Dependency Management**
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Credit
+**Developed by :**<br>
+Muhamad Ashraff Othman<br>
+© 2021-2022 All rights reserved.<br>
 
